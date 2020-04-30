@@ -221,7 +221,7 @@ asciidoctor {
 
 NOTE: The Asciidoctor Gradle plugin is not in Maven Central, so you also have to add `jcenter()` to the buildscipt dependencies in Gradle.
 
-NOTE: The default location for asciidoctor sources in Gradle is `src/doc/asciidoc`. We only need to set the `sourceDir` because we changed the location to match the default for Maven.
+NOTE: The default location for asciidoctor sources in Gradle is `src/docs/asciidoc`. We only need to set the `sourceDir` because we changed the location to match the default for Maven.
 
 == Summary
 
